@@ -1,7 +1,8 @@
 **Campinas, December 14th 2020.**
 
-**LUSIB/UNICAMP- Ultrasound and Biomedical Instrumentation Laboratory/State University of Campinas
-Authors: M.Sc. Amanda Costa Martinez, M.Sc. Johannes Medeiros and M.Sc. Mathias Scroccaro Costa**
+**LUSIB/UNICAMP- Ultrasound and Biomedical Instrumentation Laboratory/State University of Campinas**
+
+**Authors: M.Sc. Amanda Costa Martinez, M.Sc. Johannes Medeiros and M.Sc. Mathias Scroccaro Costa**
 
 # How to use texo from the Ultrasonix SDKs
 
