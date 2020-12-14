@@ -1,0 +1,9 @@
+30 0 10000000 +- 50 0
+
+# Sequence of parameters    
+tx.focusDistance in mm
+useCustomFrequency : 0 to select center frequency, 1 to use custom frequency
+tx.frequency in Hertz. Used if useCustomFrequency is 1, ignored if useCustomFrequency is 0
+tx.pulseShape : shape of pulse using + and -
+rx.acquisitionDepth in mm
+rx.decimation : 0 sets sampling frequency to 40 MHz; 1 to 20 MHz; 2 to 10 MHz
