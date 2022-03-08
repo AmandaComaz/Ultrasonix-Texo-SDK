@@ -16,8 +16,8 @@
 
 In our lab,  we have an ultrasound equipment
 SonixMDP from Ultrassonix. This equipment can be used only for research and has two operational modes: Exam and SDKs. 
-The exam mode is the same as the doctors use in their clinics to exam the patients. 
-The SDK mode is the research mode, which allow us to have more liberty with the functions of the equipment.
+The exam mode is the same as the physicians use in their clinics to exam patients. 
+The SDK mode is the research mode, which allow us to have more flexibility to reprogram some functions of the equipment.
 Ultrassonix provides many Software Development Kits (SDK) and Toolboxes that can be used for research and development.
 
 * SDKs
